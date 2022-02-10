@@ -28,7 +28,7 @@
 		<jackson.version>2.9.6</jackson.version>
 		<spring.security.version>5.2.1.RELEASE</spring.security.version>
 		<!-- DB framework properties -->
-		<hibernate.version>5.4.10.Final</hibernate.version>
+		<hibernate.version>5.4.24.Final</hibernate.version>
 		<querydsl.version>4.2.2</querydsl.version>
 		<mysema.querydsl.version>3.7.4</mysema.querydsl.version>
 
